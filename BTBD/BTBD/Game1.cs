@@ -17,7 +17,6 @@ BOBO the Baby Dragon - EECS 395 2D Project
 by Shaker Islam, Ross Freiman, Li Jin, and Wenfan Li
 
  * We got help by using the XNA Platformer Starter Kit, mainly for physics, collisions, and a little game structure.
- * Dragon sprite curtesy of No Body the Dragon
  * Some help from xnadevelopment.com for shooting projectiles
  * Rest of it completely by us!
  
